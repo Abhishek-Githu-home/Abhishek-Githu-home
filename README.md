@@ -37,7 +37,7 @@ Experienced and passionate Software Test Engineer with 3.5+ years in manual and 
 ### 💻 Technical Skills :
 
 - **Testing:** Functional Testing, Requirement Analysis, Test Case Design, Defect Logging (JIRA)
-- **Automation:** Cypress (JavaScript), Selenium, Cucumber, Postman
+- **Automation:** Cypress (JavaScript), Cucumber, Postman
 - **Process:** STLC, SDLC, Agile, GDP (Good Documentation Practices)
 - **Dev Tools:** Visual Studio, Eclipse, SourceTree, PuTTY, WinSCP, Azure DevOps, Rancher Desktop
 - **Other:** SQL, Python, Linux, AWS, CSS, HTML, Terraform
@@ -92,7 +92,7 @@ Experienced and passionate Software Test Engineer with 3.5+ years in manual and 
 
 - HCL Agile Foundation, Agile Associate, Software Testing Foundation (HCL)
 - Cisco certified in Basics of Networking (NAT Academy)
-- Selenium with Python, Agile, Scrum, Medical Domain training
+- Python, Agile, Scrum, Medical Domain training
 - Cypress with JavaScript & API basics
 - TechBee program and certification of completion
 
