@@ -1,10 +1,6 @@
-# 👋 Hi there,  I'm Abhishek K M 
+# 👋 Heyaa,  I'm Abhishek K M 
 
-### <i> Lead Software Test Engineer </i> | <i> Medical & Networking Domains </i>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-An%20Enthusiastic%20tester%20who%20focusses%20more%20on%20functionality%20exploration%20rather%20than%20defect%20aiming-%23FFD700?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="Enthusiastic tester quote" />
-</p>
+### 🎗️ <i> SDET - Software Development Engineer in Test </i>
 
 ---
 
@@ -13,7 +9,7 @@
 ![Email Banner](https://img.shields.io/badge/Email-abhishekabhi6823%40gmail.com-red?logo=gmail&style=for-the-badge) [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-Abhishek%20K%20M-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhishek-k-m-1723a023b)  
 ![Location Banner](https://img.shields.io/badge/Preferred%20Location-Chennai%2FBangalore-orange?style=for-the-badge) ![Mobile Banner](https://img.shields.io/badge/Contact-7019891910-green?style=for-the-badge)
 
-### 🏆 [HCL Techbee Testimonial (PDF)](./Testimonial_HCLTECHBEE.docx.pdf)
+### 🏅[HCLTechbee Testimonial](https://www.instagram.com/hcltechbee/p/DSems9hkmUI)
 
 ---
 <p align="center" style="font-size:12px;">
@@ -27,30 +23,54 @@ Experienced and passionate Software Test Engineer with 4 years of real time proj
 
 ---
 
-### 🎯 Technical Responsibilities :
+## 🛠️ Technical Responsibilities & Scope
 
-- **Test Experience:** 4 years hands-on at HCL Technologies (Medical & Networking sectors)
-- **Test Coverage:** Cypress Automation, Functional, API testing, Integration, Regression, Exploratory, Sanity, Ad hoc, Dry, Formal
-- **Sprint Testing:** Effort estimation, user story analysis, test case development, execution
-- **Release Management:** Authored release notes, managed defect lifecycle, ensured build quality
-- **Cloud & Build Ops:** Pre-prod deployments, cloud provisioning, verification protocols
+As a **Lead Engineer** with 4 years of experience, I bridge the gap between development and quality assurance. My core focus is on building robust automation frameworks, ensuring test coverage, and driving engineering best practices.
+
+### 🚀 Automation & Framework Architecture
+- **Framework Design:** Architecting and maintaining scalable test automation frameworks using **Cypress** with **JavaScript/TypeScript**.
+- **End-to-End Testing:** Automating critical business flows to reduce manual regression time by significant margins.
+- **Archutecture:** Developed E2E project based on cypress covering POM, BDD-Cucumber framework, Mochawesome for report generation, Github CI-CD for automatic suite execution 
+
+### 🔍 Quality Assurance Strategy
+- **Test Planning:** Defining comprehensive test strategies, including functional, integration, and regression testing for complex web applications.
+- **Test Execution and Defect reporting** Performing all type of manual testing on web application and adhere to STLC, defect lifecycle
+- **Defect Management:** Owning the bug lifecycle—from identification and reproduction to verification and closure.
+
+### 🤝 Leadership & Collaboration
+- **Mentorship:** Guiding junior engineers on testing mindset, breaking the application and testing methodologies.
+- **Code Reviews:** Conducting rigorous code reviews to ensure clean, maintainable, and efficient test code.
+- **Innovation:** Actively exploring **Generative AI** applications in software testing to optimize test case generation and self-healing scripts.
 
 ---
 
-### 💻 Technical Skills :
+### 💻 Tech-stack : 
 
-- **Testing:** Functional Testing, Requirement Analysis, Test Case Design, Defect Logging (JIRA)
-- **Automation:** Cypress (JavaScript), Cucumber, Postman
+- **Domain and Methodologies**: Medical, Networking Domain and Agile Methodology
+- **Manual Testing**: Functional testing, Scrum testing, API testing, Defect life cycle, Testing with GenAI
+- **Automation Testing**: Cypress automation with JavaScript, Xpath
 - **Process:** STLC, SDLC, Agile, GDP (Good Documentation Practices)
-- **Dev Tools:** Visual Studio, Eclipse, SourceTree, PuTTY, WinSCP, Azure DevOps, Rancher Desktop
-- **Other:** SQL, Python, Linux, AWS, CSS, HTML, Terraform
-- **Networking:** Debugging via APIs, fundamentals
+- **Programming Language**: Beginner to Python and JavaScript
+-	**Version Controls**: Git, GitHub, CI/CD, Jenkins, Linux and terraform commands
+-	**Database**: SQL
+-	**Networking:** Debugging via APIs, fundamentals
+-	**Tools**: Jira, Azure Devops, Confluence, Postman, Putty, Visual studio, Eclipse, TestRail, Trello
+
 
 ## 🏢 Professional Experience :
 
 ![HCL Technologies Banner](https://img.shields.io/badge/HCL%20Technologies-Lead%20Engineer%20(Mar%202022%20–%20Present)%20-blue?logo=hcl&style=for-the-badge)       
 
 ### 📫 <i>Key Projects</i>
+
+![STRAUMANN AUTOMATION_PROJECT](https://img.shields.io/badge/STRAUMANN%20CHP_AUTOMATION_PROJECT-Lead%20Engineer%20(Mar%202022%20–%20Present)%20-Green?logo=Dental&style=for-the-badge)  
+
+*Role:* Functional Tester (Automation)  
+*Tools:* Confluence, Azure Devops, Git, Visual studio, Citrix  
+- Developed and maintained Cypress automation scripts for portal features.
+- Delivered sprint-based releases using Agile and CI/CD.
+- Followed sprint process and handled testing activities towards the product increment release 
+
 
 
 ![CISCO_CHP_AUTOMATION_PROJECT](https://img.shields.io/badge/CISCO%20CHP_AUTOMATION_PROJECT-Lead%20Engineer%20(Mar%202022%20–%20Present)%20-Green?logo=CISCO&style=for-the-badge)  
@@ -93,7 +113,9 @@ Experienced and passionate Software Test Engineer with 4 years of real time proj
 
 ## 🎓 Training & Certifications :
 
-- HCL Agile Foundation, Agile Associate, Software Testing Foundation (HCL)
+- Cypress 101 Certified from Lambdatest and udemy.
+- Certified HCL Agile foundation, HCL Agile Associate and foundation level on software testing.
+- Artificial Intelligence and foundational SQL certified with B10x  
 - Cisco certified in Basics of Networking (NAT Academy)
 - Python, Agile, Scrum, Medical Domain training
 - Cypress with JavaScript & API basics
