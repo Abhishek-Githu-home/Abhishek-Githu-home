@@ -13,6 +13,9 @@
 ![Email Banner](https://img.shields.io/badge/Email-abhishekabhi6823%40gmail.com-red?logo=gmail&style=for-the-badge) [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-Abhishek%20K%20M-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhishek-k-m-1723a023b)  
 ![Location Banner](https://img.shields.io/badge/Preferred%20Location-Chennai%2FBangalore-orange?style=for-the-badge) ![Mobile Banner](https://img.shields.io/badge/Contact-7019891910-green?style=for-the-badge)
 
+### 🏆 [HCL Techbee Testimonial (PDF)](./Testimonial_HCLTECHBEE.docx.pdf)
+
+---
 <p align="center" style="font-size:12px;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="gif" />
   <em><b>I enjoy making connections with new individuals, </b><b> and </b>my inbox is always available for support and healthy conversions!! 😊</em>
@@ -20,14 +23,14 @@
 
 ## 🏆 Profile Summary :
 
-Experienced and passionate Software Test Engineer with 3.5+ years in manual and automated testing within Medical and Networking domains. Proficient in JIRA, Agile methodologies, and Cypress automation. Dedicated to continuous learning and collaborative problem-solving to enhance software reliability and quality.
+Experienced and passionate Software Test Engineer with 4 years of real time project experience in Manual and Automated testing. Expertise at Functioanl testing, Agile methodologies, Jira and Cypress automation. Dedicated to continuous learning and collaborative problem-solving to enhance software reliability and quality.
 
 ---
 
 ### 🎯 Technical Responsibilities :
 
-- **Test Experience:** 3.5 years hands-on at HCL Technologies (Medical & Networking sectors)
-- **Test Coverage:** Functional, Integration, Regression, Exploratory, Sanity, Ad hoc, Dry, Formal
+- **Test Experience:** 4 years hands-on at HCL Technologies (Medical & Networking sectors)
+- **Test Coverage:** Cypress Automation, Functional, API testing, Integration, Regression, Exploratory, Sanity, Ad hoc, Dry, Formal
 - **Sprint Testing:** Effort estimation, user story analysis, test case development, execution
 - **Release Management:** Authored release notes, managed defect lifecycle, ensured build quality
 - **Cloud & Build Ops:** Pre-prod deployments, cloud provisioning, verification protocols
