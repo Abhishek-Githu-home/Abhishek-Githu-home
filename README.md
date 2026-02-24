@@ -7,7 +7,6 @@
 ### <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with me 
 
 ![Email Banner](https://img.shields.io/badge/Email-abhishekabhi6823%40gmail.com-red?logo=gmail&style=for-the-badge) [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-Abhishek%20K%20M-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhishek-k-m-1723a023b)  
-![Location Banner](https://img.shields.io/badge/Preferred%20Location-Chennai%2FBangalore-orange?style=for-the-badge) ![Mobile Banner](https://img.shields.io/badge/Contact-7019891910-green?style=for-the-badge)
 
 ### 🏅[HCLTechbee Testimonial](https://www.instagram.com/hcltechbee/p/DSems9hkmUI)
 
