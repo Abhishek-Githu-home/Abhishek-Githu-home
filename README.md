@@ -27,7 +27,7 @@ Experienced and passionate Software Test Engineer with 4 years of real time proj
 As a **Lead Engineer** with 4 years of experience, I bridge the gap between development and quality assurance. My core focus is on building robust automation frameworks, ensuring test coverage, and driving engineering best practices.
 
 ### 🚀 Automation & Framework Architecture
-- **Framework Design:** Architecting and maintaining scalable test automation frameworks using **Cypress** with **JavaScript/TypeScript**.
+- **Framework Design:** Architecting and maintaining scalable test automation frameworks using **Cypress** & **Playwright** with **JavaScript/TypeScript**.
 - **End-to-End Testing:** Automating critical business flows to reduce manual regression time by significant margins.
 - **Archutecture:** Developed E2E project based on cypress covering POM, BDD-Cucumber framework, Mochawesome for report generation, Github CI-CD for automatic suite execution 
 
@@ -47,9 +47,9 @@ As a **Lead Engineer** with 4 years of experience, I bridge the gap between deve
 
 - **Domain and Methodologies**: Medical, Networking Domain and Agile Methodology
 - **Manual Testing**: Functional testing, Scrum testing, API testing, Defect life cycle, Testing with GenAI
-- **Automation Testing**: Cypress automation with JavaScript, Xpath
+- **Automation Testing**: Cypress and Playwright automation with JavaScript
 - **Process:** STLC, SDLC, Agile, GDP (Good Documentation Practices)
-- **Programming Language**: Beginner to Python and JavaScript
+- **Programming Language**: JavaScript
 -	**Version Controls**: Git, GitHub, CI/CD, Jenkins, Linux and terraform commands
 -	**Database**: SQL
 -	**Networking:** Debugging via APIs, fundamentals
