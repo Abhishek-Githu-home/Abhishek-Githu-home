@@ -37,27 +37,6 @@
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-## 🚀 About Me
-
-```javascript
-const abhishek = {
-    role: "Lead Engineer @ HCL Technologies",
-    experience: "4+ years | Manual + Automation Testing",
-    domains: ["Medical 🏥", "Networking 🌐"],
-    automation: ["Cypress", "Playwright", "JavaScript", "TypeScript"],
-    currentFocus: "GenAI-powered testing 🤖 — self-healing scripts & AI test generation",
-    funFact: "I get paid to break things... professionally! 💥"
-};
-```
-
-- 🎯 Architecting scalable test automation frameworks with **Cypress & Playwright**
-- 🧩 Built E2E frameworks with **POM, BDD-Cucumber, Mochawesome reports & GitHub CI/CD**
-- 🧠 Mentoring junior engineers on the *testing mindset* & breaking applications
-- 🤖 Actively exploring **Generative AI** for test-case generation & self-healing scripts
-
----
-
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 ## 🛠️ Tech Stack & Tools
 
@@ -86,7 +65,40 @@ const abhishek = {
 
 </div>
 
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+## 🚀 About Me
+
+```javascript
+const abhishek = {
+    role: "Lead Engineer @ HCL Technologies",
+    experience: "4+ years | Manual + Automation Testing",
+    domains: ["Medical 🏥", "Networking 🌐"],
+    automation: ["Cypress", "Playwright", "JavaScript", "TypeScript"],
+    currentFocus: "GenAI-powered testing 🤖 — self-healing scripts & AI test generation",
+    funFact: "I get paid to break things... professionally! 💥"
+};
+```
+
+- 🎯 Architecting scalable test automation frameworks with **Cypress & Playwright**
+- 🧩 Built E2E frameworks with **POM, BDD-Cucumber, Mochawesome reports & GitHub CI/CD**
+- 🧠 Mentoring junior engineers on the *testing mindset* & breaking applications
+- 🤖 Actively exploring **Generative AI** for test-case generation & self-healing scripts
+
 ---
+
+## ⭐ Featured Work
+
+<div align="center">
+
+| Repository | What It Proves |
+|---|---|
+| 🎭 [**Playwright-TS-Framework**](https://github.com/Abhishek-Githu-home/Playwright-TS-Framework) | Production-grade Playwright + TypeScript framework — POM, fixtures, API testing, parallel execution, GitHub Actions CI |
+| 🌲 [**E2E-CypressProject**](https://github.com/Abhishek-Githu-home/E2E-CypressProject) | Full Cypress architecture — POM, BDD-Cucumber, Mochawesome reporting, CI/CD |
+| 🤖 [**AI-Testing**](https://github.com/Abhishek-Githu-home/AI-Testing) | Practical GenAI integration into QA workflows — AI-generated suites & reports |
+| ⚡ [**Cypress-AiStudio**](https://github.com/Abhishek-Githu-home/Cypress-AiStudio) | Framework generated in 20 minutes using AI prompts + Copilot |
+
+</div>
 
 <!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
 ## 🏢 Professional Experience
