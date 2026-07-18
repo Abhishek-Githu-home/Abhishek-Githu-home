@@ -1,141 +1,212 @@
-# 👋 Heyaa,  I'm Abhishek K M 
+<!-- ═══════════════════ ANIMATED HEADER BANNER ═══════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20K%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=LEAD%20QA%20Engineer%20%7C%20AI-Powered%20Testing&descSize=20&descAlignY=75" width="100%"/>
+</div>
 
-### 🎗️ <i> SDET - Software Development Engineer in Test </i>
+<!-- ═══════════════════ LIVE TYPING ANIMATION ═══════════════════ -->
+<div align="center">
+  <a href="https://github.com/Abhishek-Githu-home">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+%7C+Lead+Engineer+%40+HCL+Technologies;%E2%9A%A1+Cypress+%26+Playwright+Automation+Expert;%F0%9F%A4%96+Exploring+GenAI+in+Software+Testing;%F0%9F%94%8D+4%2B+Years+Breaking+Apps+Professionally;%F0%9F%9A%80+Building+Scalable+Test+Frameworks" alt="Typing Animation" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Githu-home&style=for-the-badge&color=00d9ff&label=PROFILE+VISITORS" alt="Profile views"/>
+</div>
 
-### <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with me 
+<br/>
 
-![Email Banner](https://img.shields.io/badge/Email-abhishekabhi6823%40gmail.com-red?logo=gmail&style=for-the-badge) [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-Abhishek%20K%20M-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhishek-k-m-1723a023b)  
+<!-- ═══════════════════ CONNECT WITH ME ═══════════════════ -->
+<div align="center">
 
-### 🏅[HCLTechbee Testimonial](https://www.instagram.com/hcltechbee/p/DSems9hkmUI)
+  ## 🤝 Connect With Me
 
----
-<p align="center" style="font-size:12px;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="gif" />
-  <em><b>I enjoy making connections with new individuals, </b><b> and </b>my inbox is always available for support and healthy conversions!! 😊</em>
-</p>
+  <a href="mailto:abhishekabhi6823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishekabhi6823%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-k-m-1723a023b">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20K%20M-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/hcltechbee/p/DSems9hkmUI">
+    <img src="https://img.shields.io/badge/🏅%20HCL%20TechBee-Testimonial-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="TechBee Testimonial"/>
+  </a>
 
-## 🏆 Profile Summary :
+  <br/><br/>
+  <em>💬 I enjoy making connections with new individuals — my inbox is always open for support and healthy conversations! 😊</em>
+</div>
 
-Experienced and passionate Software Test Engineer with 4 years of real time project experience in Manual and Automated testing. Expertise at Functioanl testing, Agile methodologies, Jira and Cypress automation. Dedicated to continuous learning and collaborative problem-solving to enhance software reliability and quality.
+<br/>
 
----
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+## 🚀 About Me
 
-## 🛠️ Technical Responsibilities & Scope
+```javascript
+const abhishek = {
+    role: "Lead Engineer @ HCL Technologies",
+    experience: "4+ years | Manual + Automation Testing",
+    domains: ["Medical 🏥", "Networking 🌐"],
+    automation: ["Cypress", "Playwright", "JavaScript", "TypeScript"],
+    currentFocus: "GenAI-powered testing 🤖 — self-healing scripts & AI test generation",
+    funFact: "I get paid to break things... professionally! 💥"
+};
+```
 
-As a **Lead Engineer** with 4 years of experience, I bridge the gap between development and quality assurance. My core focus is on building robust automation frameworks, ensuring test coverage, and driving engineering best practices.
-
-### 🚀 Automation & Framework Architecture
-- **Framework Design:** Architecting and maintaining scalable test automation frameworks using **Cypress** & **Playwright** with **JavaScript/TypeScript**.
-- **End-to-End Testing:** Automating critical business flows to reduce manual regression time by significant margins.
-- **Archutecture:** Developed E2E project based on cypress covering POM, BDD-Cucumber framework, Mochawesome for report generation, Github CI-CD for automatic suite execution 
-
-### 🔍 Quality Assurance Strategy
-- **Test Planning:** Defining comprehensive test strategies, including functional, integration, and regression testing for complex web applications.
-- **Test Execution and Defect reporting** Performing all type of manual testing on web application and adhere to STLC, defect lifecycle
-- **Defect Management:** Owning the bug lifecycle—from identification and reproduction to verification and closure.
-
-### 🤝 Leadership & Collaboration
-- **Mentorship:** Guiding junior engineers on testing mindset, breaking the application and testing methodologies.
-- **Code Reviews:** Conducting rigorous code reviews to ensure clean, maintainable, and efficient test code.
-- **Innovation:** Actively exploring **Generative AI** applications in software testing to optimize test case generation and self-healing scripts.
-
----
-
-### 💻 Tech-stack : 
-
-- **Domain and Methodologies**: Medical, Networking Domain and Agile Methodology
-- **Manual Testing**: Functional testing, Scrum testing, API testing, Defect life cycle, Testing with GenAI
-- **Automation Testing**: Cypress and Playwright automation with JavaScript
-- **Process:** STLC, SDLC, Agile, GDP (Good Documentation Practices)
-- **Programming Language**: JavaScript
--	**Version Controls**: Git, GitHub, CI/CD, Jenkins, Linux and terraform commands
--	**Database**: SQL
--	**Networking:** Debugging via APIs, fundamentals
--	**Tools**: Jira, Azure Devops, Confluence, Postman, Putty, Visual studio, Eclipse, TestRail, Trello
-
-
-## 🏢 Professional Experience :
-
-![HCL Technologies Banner](https://img.shields.io/badge/HCL%20Technologies-Lead%20Engineer%20(Mar%202022%20–%20Present)%20-blue?logo=hcl&style=for-the-badge)       
-
-### 📫 <i>Key Projects</i>
-
-![STRAUMANN AUTOMATION_PROJECT](https://img.shields.io/badge/STRAUMANN%20CHP_AUTOMATION_PROJECT-Lead%20Engineer%20(Mar%202022%20–%20Present)%20-Green?logo=Dental&style=for-the-badge)  
-
-*Role:* Functional Tester (Automation)  
-*Tools:* Confluence, Azure Devops, Git, Visual studio, Citrix  
-- Developed and maintained Cypress automation scripts for portal features.
-- Delivered sprint-based releases using Agile and CI/CD.
-- Followed sprint process and handled testing activities towards the product increment release 
-
-
-
-![CISCO_CHP_AUTOMATION_PROJECT](https://img.shields.io/badge/CISCO%20CHP_AUTOMATION_PROJECT-Lead%20Engineer%20(Mar%202022%20–%20Present)%20-Green?logo=CISCO&style=for-the-badge)  
-
-*Role:* Functional Tester (Automation)  
-*Tools:* Networking, Agile, CDT, Jira, Cypress, Rancher, Xlaunch, Postman, Webex  
-- Developed and maintained Cypress automation scripts for portal features.
-- Delivered sprint-based releases using Agile and CI/CD.
-- Managed defect tracking and environment provisioning.
-------
-  ![WERFEN PROJECT ](https://img.shields.io/badge/Werfen%20PROJECT-Lead%20Engineer%20(Nov%202024%20–%20Mar%2025)%20-Green?logo=Werfen&style=for-the-badge)  
-
-*Role:* Functional Tester (Manual)  
-*Tools:* Medical, Agile, Azure DevOps, VMs, WinSCP  
-- Validated remote medical instrument connections.
-- Managed test assets and defects with Azure DevOps and WinSCP.
-------
-![ROCHE PROJECT ](https://img.shields.io/badge/ROCHE%20AVENIO%20CONNECT%20PROJECT-Software%20Engineer%20(Apr%202022%20–%20Sep%2024)%20-Green?logo=Werfen&style=for-the-badge)  
- 
-*Role:* Functional Tester (Manual)  
-*Tools:* Medical, Agile, Jira, Postman, WinSCP  
-- Gathered requirements, designed and tested microservices-based application.
-- Conducted formal, sanity, regression, and exploratory testing.
-- Authored release notes and performed API & cloud provisioning.
------
-![RECIPE ANNOTATION ](https://img.shields.io/badge/JERSEY%20AND%20RECIPE%20ANNOTATION%20PROJECT-Software%20Engineer%20(Nov%2021%20–%20Mar%2022)%20-Green?logo=RECIPE&style=for-the-badge)  
-
-*Role:* Functional Tester (Manual)  
-- Conducted data validation testing, delivering high-quality outputs recognized by clients.
-------
-
-![TECHBEE INTERSHIP PROGRAM ](https://img.shields.io/badge/TECHBEE%20INTERSHIP%20PROGRAM-INTERN%20(Mar%2021%20–%20Mar%2022)%20-Green?logo=TECHBEE&style=for-the-badge)  
-
-*Role:* Intern  
-- Gained foundational knowledge of software concepts and methodologies.
-- Acquired networking basics via a car hire project.
-- Developed comprehensive Gherkin test cases during on-the-job training.
+- 🎯 Architecting scalable test automation frameworks with **Cypress & Playwright**
+- 🧩 Built E2E frameworks with **POM, BDD-Cucumber, Mochawesome reports & GitHub CI/CD**
+- 🧠 Mentoring junior engineers on the *testing mindset* & breaking applications
+- 🤖 Actively exploring **Generative AI** for test-case generation & self-healing scripts
 
 ---
 
-## 🎓 Training & Certifications :
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## 🛠️ Tech Stack & Tools
 
-- Cypress 101 Certified from Lambdatest and udemy.
-- Certified HCL Agile foundation, HCL Agile Associate and foundation level on software testing.
-- Artificial Intelligence and foundational SQL certified with B10x  
-- Cisco certified in Basics of Networking (NAT Academy)
-- Python, Agile, Scrum, Medical Domain training
-- Cypress with JavaScript & API basics
-- TechBee program and certification of completion
+<div align="center">
+
+### ⚡ Automation & Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="Languages"/>
+
+### 🧪 Testing & Frameworks
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Cucumber%20BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white" alt="TestRail"/>
+
+### 🔧 DevOps & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,linux,terraform&theme=dark" alt="DevOps"/>
+
+### 📋 Project & Database Tools
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+</div>
 
 ---
 
-## 🌐 Languages :
-- English (Professional)
-- Kannada (Native)
-- Telugu (Native)
-- Hindi (Intermediate)
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+## 🏢 Professional Experience
+
+<img src="https://img.shields.io/badge/HCL%20Technologies-Lead%20Engineer%20(Mar%202022%20—%20Present)-1A4FE0?logo=hcl&style=for-the-badge" alt="HCL"/>
+
+<details open>
+<summary><b>📌 STRAUMANN CHP Automation</b> — <em>Functional Tester (Automation)</em></summary>
+<br/>
+
+> 🦷 *Medical / Dental Domain*
+- Developed & maintained **Cypress** automation scripts for portal features
+- Delivered sprint-based releases via **Agile + CI/CD**
+- **Tools:** Confluence · Azure DevOps · Git · VS Code · Citrix
+</details>
+
+<details>
+<summary><b>📌 CISCO CHP Automation</b> — <em>Functional Tester (Automation)</em></summary>
+<br/>
+
+> 🌐 *Networking Domain*
+- Cypress automation for portal features with sprint-based CI/CD delivery
+- Defect tracking & environment provisioning
+- **Tools:** Jira · Cypress · Rancher · Xlaunch · Postman · Webex
+</details>
+
+<details>
+<summary><b>📌 WERFEN Project</b> — <em>Functional Tester (Manual)</em> · Nov 2024 → Mar 2025</summary>
+<br/>
+
+> 🏥 *Medical Domain*
+- Validated remote medical instrument connections
+- Managed test assets & defects with **Azure DevOps** and **WinSCP**
+</details>
+
+<details>
+<summary><b>📌 ROCHE Avenio Connect</b> — <em>Software Engineer</em> · Apr 2022 → Sep 2024</summary>
+<br/>
+
+> 🧬 *Medical Domain — Microservices Application*
+- Requirements gathering, design & testing of microservices-based application
+- Formal, sanity, regression & exploratory testing
+- Authored release notes · API testing & cloud provisioning
+- **Tools:** Jira · Postman · WinSCP
+</details>
+
+<details>
+<summary><b>📌 Jersey & Recipe Annotation</b> — <em>Software Engineer</em> · Nov 2021 → Mar 2022</summary>
+<br/>
+
+- Data validation testing with client-recognized high-quality deliverables
+</details>
+
+<details>
+<summary><b>📌 TechBee Internship Program</b> — <em>Intern</em> · Mar 2021 → Mar 2022</summary>
+<br/>
+
+- Foundations of software concepts, methodologies & networking basics
+- Authored comprehensive **Gherkin** test cases during on-the-job training
+</details>
 
 ---
 
-## 🏅 Achievements :
+<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+## 🏅 Achievements & Awards
 
-- **ERS Business Champion Award** – Roche Avenio Connect (2024)
-- **Promotion** – Consecutive top performer annual rating (2024)
-- **Spot Award** – Successful client demo, Roche Avenio Connect (2023)
-- **Thanks Team Award** – On-time hardening build delivery (2023)
+| 🏆 Award | 📌 Details | 📅 Year |
+|---|---|---|
+| 🥇 **ERS Business Champion Award** | Roche Avenio Connect | 2024 |
+| 📈 **Promotion** | Consecutive top-performer annual rating | 2024 |
+| ⭐ **Spot Award** | Successful client demo — Roche Avenio Connect | 2023 |
+| 🤝 **Thanks Team Award** | On-time hardening build delivery | 2023 |
 
 ---
-<p align="center"> <em><b> Thanks for visiting my profile, come back next time for enhanced profile..!! 😊 </b></em></p>
+
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
+## 🎓 Certifications & Training
+
+- 🏵️ **Cypress 101** — LambdaTest & Udemy
+- 🏵️ **Playwright Udemy Certified**
+- 🏵️ **HCL Agile Foundation + Agile Associate** & Foundation-level Software Testing
+- 🏵️ **Artificial Intelligence & Foundational SQL** — B10x
+- 🏵️ **Cisco — Basics of Networking** (NAT Academy)
+- 🏵️ Python · Agile · Scrum · Medical Domain training
+- 🏵️ Cypress with JavaScript & API basics
+- 🏵️ TechBee Program — Certificate of Completion
+
+---
+
+<!-- ═══════════════════ LANGUAGES ═══════════════════ -->
+## 🌐 Languages I Speak
+
+![English](https://img.shields.io/badge/English-Professional-00D9FF?style=flat-square) ![Kannada](https://img.shields.io/badge/Kannada-Native-FFD700?style=flat-square) ![Telugu](https://img.shields.io/badge/Telugu-Native-FFD700?style=flat-square) ![Hindi](https://img.shields.io/badge/Hindi-Intermediate-90EE90?style=flat-square)
+
+---
+
+<!-- ═══════════════════ LIVE GITHUB STATS ═══════════════════ -->
+## 📊 Live GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Githu-home&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Githu-home&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhishek-Githu-home&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Githu-home&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Githu-home&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+</div>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
+
+  ### 💙 *Thanks for visiting my profile — come back next time for an even more enhanced version!!* 😊
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
