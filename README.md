@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek-Githu-home&style=for-the-badge&color=00d9ff&label=PROFILE+VISITORS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Githu-home&style=for-the-badge&color=0A66C2&label=PROFILE+VISITORS" alt="Profile views"/>
 </div>
 
 <br/>
